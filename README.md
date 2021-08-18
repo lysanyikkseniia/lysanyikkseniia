@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# I do all kind of things 
+## Hi there,  I'm Kseniia 👋
 
 <!--
 **lysanyikkseniia/lysanyikkseniia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
